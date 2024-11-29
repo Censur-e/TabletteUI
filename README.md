@@ -1,2 +1,11 @@
-# TabletteUI
-Ce projet est un UI conçue pour se team sur le jeu Roblox. L'UI vise à imiter une tablette  avec un style ressemblant à Windows 11
+# Tablette UI
+
+## Description
+Ce UI est un système de team qui ressemble à une tablette avec un design qui ressemble au début à Windows 11.
+
+## Fonctionnalités
+- **Script** : UI Script entièrement.
+- **Configuration** : Entièrement configurable.
+- **Et bien plus** : Découvrez d'autres fonctionnalités en explorant l'UI.
+
+## Aperçu
